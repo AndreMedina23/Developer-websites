@@ -24,3 +24,11 @@ body{
 .titulo span{
     font-size: 2rem;
 }
+
+.contenedor{
+    margin: 120px auto;
+}
+
+.nav-bg{
+    background-color: var(--secundario);
+}
